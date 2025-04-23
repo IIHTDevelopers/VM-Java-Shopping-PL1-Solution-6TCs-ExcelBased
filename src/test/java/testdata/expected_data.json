@@ -1,0 +1,36 @@
+{
+	"homepage":{
+		"homepageTitle":"Automation Practice Site"
+	},
+
+	"Shop_menu":{
+		"Shop_menu_title":"Products – Automation Practice Site"
+	},
+	"Shop_page":{
+		"Shop_page_title":"Products – Automation Practice Site"
+	},
+	"basket_page":{
+		"basket_page_title":"Basket – Automation Practice Site"
+	},
+	"new_arrival":{
+		"new_arrival_text":"new arrivals"
+	},
+	"Selenium_Ruby":{
+		"Selenium_Ruby_title":"Selenium Ruby – Automation Practice Site"
+	},
+	"Product_Added":{
+		"Product_Added_message":" “VIEW BASKET /n�Selenium Ruby� has been added to your basket."
+	},
+
+	"error_message":{
+		"verify_error_message":"Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &)."
+	},
+
+	"Remove_Message":{
+		"Remove_message_details":"Selenium Ruby removed. Undo?"
+	},
+	"BillingDetailsPage":{
+		"BillingDetailsPage_title":"Basket – Automation Practice Site"
+	}
+
+}
